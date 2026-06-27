@@ -43,7 +43,6 @@ GuardCam/
 ├── utils.py
 ├── requirements.txt
 ├── README.md
-├── .gitignore
 │
 ├── Snapshots/
 └── Videos/
