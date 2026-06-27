@@ -102,32 +102,6 @@ assets/
 └── recording.png
 ```
 
-Then include them in the README as shown below.
-
-### Home Screen
-
-<p align="center">
-  <img src="assets/home.png" alt="Home Screen" width="850">
-</p>
-
----
-
-### Person Detected
-
-<p align="center">
-  <img src="assets/person_detected.png" alt="Person Detected" width="850">
-</p>
-
----
-
-### Recording
-
-<p align="center">
-  <img src="assets/recording.png" alt="Recording" width="850">
-</p>
-
----
-
 ## Future Improvements
 
 * Face Recognition
