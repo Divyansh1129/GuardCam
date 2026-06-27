@@ -90,17 +90,6 @@ python main.py
 
 ---
 
-## Screenshots
-
-Create an `assets` folder inside the project directory and add your screenshots.
-
-```text
-assets/
-├── home.png
-├── person_detected.png
-└── recording.png
-```
-
 ## Future Improvements
 
 * Face Recognition
